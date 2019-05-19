@@ -1,0 +1,16 @@
+# sbt
+target/
+
+# intellij idea
+*.log
+*.iml
+*.ipr
+*.iws
+.idea
+
+*.swp
+tokens/
+credentials.json
+calendar_api_sample/src/main/resources/credentials.json
+
+
